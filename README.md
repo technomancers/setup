@@ -6,7 +6,7 @@ Get setup to program a robot from your computer.
 $ git clone git@github.com:technomancers/setup.git
 
 // 2. load all Submodules
-$ git submodule update --recursive --remote
+$ git submodule update --init --recursive --remote
 ```
 
 ## TODO
