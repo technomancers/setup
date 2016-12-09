@@ -1,0 +1,42 @@
+[submodule "wpilibtools"]
+	path = wpilibtools
+	url = https://usfirst.collab.net/gerrit/wpilibtools
+[submodule "smart_dashboard"]
+	path = smart_dashboard
+	url = https://usfirst.collab.net/gerrit/smart_dashboard
+[submodule "sfxmeta"]
+	path = sfxmeta
+	url = https://usfirst.collab.net/gerrit/sfxmeta
+[submodule "sfxlib"]
+	path = sfxlib
+	url = https://usfirst.collab.net/gerrit/sfxlib
+[submodule "sfxcv"]
+	path = sfxcv
+	url = https://usfirst.collab.net/gerrit/sfxcv
+[submodule "sfx"]
+	path = sfx
+	url = https://usfirst.collab.net/gerrit/sfx
+[submodule "robotbuilder"]
+	path = robotbuilder
+	url = https://usfirst.collab.net/gerrit/robotbuilder
+[submodule "outline_viewer"]
+	path = outline_viewer
+	url = https://usfirst.collab.net/gerrit/outline_viewer
+[submodule "ntcore"]
+	path = ntcore
+	url = https://usfirst.collab.net/gerrit/ntcore
+[submodule "livewindowplugin"]
+	path = livewindowplugin
+	url = https://usfirst.collab.net/gerrit/livewindowplugin
+[submodule "gazebo_exporter"]
+	path = gazebo_exporter
+	url = https://usfirst.collab.net/gerrit/gazebo_exporter
+[submodule "eclipse_plugins"]
+	path = eclipse_plugins
+	url = https://usfirst.collab.net/gerrit/eclipse_plugins
+[submodule "build-tools"]
+	path = build-tools
+	url = https://usfirst.collab.net/gerrit/build-tools
+[submodule "allwpilib"]
+	path = allwpilib
+	url = https://usfirst.collab.net/gerrit/allwpilib
